@@ -1,0 +1,6 @@
+================================
+Polyharmonic Spline Interpolator
+================================
+
+This is a basic implementation of a polyharmonic spline interpolator.
+By default the radial basis function is d^2 log(d), where d is the Euclidean distance to the sample point, which corresponds to a thin-plate spline.
